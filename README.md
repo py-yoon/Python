@@ -13,7 +13,7 @@ y=np.sin(x) # 함수를 바꾸어 cos(x), tan(x) 등도 가능하다.
 plt.plot(x,y)
 ```
 
-### X<
+### X의 제곱 
 
 ```
 import numpy as np
