@@ -7,7 +7,7 @@
 
 ### 이 공간은 파이썬 테스트 위주로 올릴 계획
 - 기초적인 것부터 시작해 실용과 재미 위주로 작업.
-- [파이썬 기초 문법](https://github.com/py-yoon/Python/wiki/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95)
+- [파이썬 기초 문법](https://github.com/py-yoon/Python/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95.md)
 
 ### 사인함수 그리기
 ```python
