@@ -10,7 +10,7 @@
 - [파이썬 기초 문법](https://github.com/py-yoon/Python/wiki/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EB%AC%B8%EB%B2%95)
 
 ### 사인함수 그리기
-```
+```python
 import numpy as np
 %matplotlib inline
 import matplotlib.pyplot as plt
