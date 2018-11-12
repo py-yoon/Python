@@ -27,3 +27,15 @@ plt.title("Y=X^2")
 plt.plot(x,y)
 ```
 
+### 거북이로 그림 그리기
+```
+import turtle as t
+
+n=100
+t.bgcolor("black")
+t.color("red")
+t.speed(0)
+for x in range(n):
+    t.circle(100)
+    t.left(3.6)
+```
