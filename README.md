@@ -21,7 +21,7 @@ plt.plot(x,y)
 
 ### X의 제곱 
 
-```
+```python
 import numpy as np
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -34,7 +34,7 @@ plt.plot(x,y)
 ```
 
 ### 거북이로 그림 그리기
-```
+```python
 import turtle as t
 
 n=100
