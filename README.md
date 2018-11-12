@@ -27,9 +27,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 x=np.linspace(-10,10,100)
 y=x**2
-plt.xlabel("x")
-plt.ylabel("y")
-plt.title("Y=X^2")
+plt.xlabel("x") # x축 라벨 넣기
+plt.ylabel("y") # y축 라벨 넣기
+plt.title("Y=X^2") # 그래프 제목 넣기
 plt.plot(x,y)
 ```
 
