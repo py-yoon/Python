@@ -9,6 +9,14 @@
 - [파이썬 기초 문법](https://github.com/py-yoon/Python/blob/master/%ED%8C%8C%EC%9D%B4%EC%8D%AC_%EA%B8%B0%EC%B4%88%EB%AC%B8%EB%B2%95.md)
 - 파이썬 함수
 
+### 파이썬 버전 확인
+- 터미널에서 확인 : python --version
+- 주피터 노트북에서 확인
+```python
+import platform
+platform.python_version()
+```
+
 ### 사인함수 그리기
 ```python
 import numpy as np
