@@ -17,6 +17,18 @@ import platform
 platform.python_version()
 ```
 
+### 주가 데이터 가져오기
+- 야후 파이낸스에 들어가 원하는 종목을 찾는다.
+야후 파이낸스 https://finance.yahoo.com/
+- 삼성전자 주가를 찾으면 다음과 같이 나온다.
+삼성전자 주가 https://finance.yahoo.com/quote/005930.KS?p=005930.KS&.tsrc=fin-srch
+Samsung Electronics Co., Ltd. (005930.KS)
+- 주식 이름 옆에 적힌 종목코드 `005930.KS`를 가져온다.
+- 명령어
+```python
+SE = web.DataReader('005930.KS','yahoo',start,end)
+```
+
 ### 사인함수 그리기
 ```python
 import numpy as np
