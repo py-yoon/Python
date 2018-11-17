@@ -22,7 +22,7 @@ platform.python_version()
 야후 파이낸스 https://finance.yahoo.com/
 - 삼성전자 주가를 찾으면 다음과 같이 나온다.
 삼성전자 주가 https://finance.yahoo.com/quote/005930.KS?p=005930.KS&.tsrc=fin-srch
-Samsung Electronics Co., Ltd. (005930.KS)
+- 종목 이름은 다음과 같이 나온다. Samsung Electronics Co., Ltd. (005930.KS)
 - 주식 이름 옆에 적힌 종목코드 `005930.KS`를 가져온다.
 - 명령어
 ```python
